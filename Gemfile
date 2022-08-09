@@ -62,7 +62,6 @@ gem 'devise'
 gem 'dotenv-rails'
 group :production do
   gem 'mysql2'
-  gem 'net-smtp'
-  gem 'net-imap'
-  gem 'net-pop'
 end
+
+gem 'net-smtp'
