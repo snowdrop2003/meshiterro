@@ -60,6 +60,7 @@ gem 'kaminari', '~> 1.2.1'
 gem 'devise'
 
 gem 'net-smtp'
+gem 'net-pop'
 
 gem 'dotenv-rails'
 group :production do
