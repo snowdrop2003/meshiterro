@@ -23,5 +23,5 @@ Things you may want to cover:
 
 * ...
 
-* Edit on cloud9 step2
+* Edit on github
 *
